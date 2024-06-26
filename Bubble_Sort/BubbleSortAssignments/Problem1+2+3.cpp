@@ -7,7 +7,10 @@ options :
 3.It involves swapping of adjacent elements
 4.After each iteration, the greatest element is placed at the end of the array.
 
-Ans: 1+3+4 are corrects
+
+2 is wrong because worst case space complexity is also 0(1)
+option 4 is wrong because not after each iteration after each passes
+Ans: 1  4 are corrects
 */
 
 /*
