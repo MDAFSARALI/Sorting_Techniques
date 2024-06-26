@@ -7,7 +7,7 @@ options :
 3.It involves swapping of adjacent elements
 4.After each iteration, the greatest element is placed at the end of the array.
 
-Ans: All of the above answers are correct
+Ans: 1+3+4 are corrects
 */
 
 /*
